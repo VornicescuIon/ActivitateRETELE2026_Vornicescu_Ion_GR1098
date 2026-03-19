@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Seminar01/Seminar01.iml" filepath="$PROJECT_DIR$/Seminar01/Seminar01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar02/Seminar02.iml" filepath="$PROJECT_DIR$/Seminar02/Seminar02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Seminar1CTS.iml" filepath="$PROJECT_DIR$/Seminar1CTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar1_CTS.iml" filepath="$PROJECT_DIR$/Seminar1_CTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/Seminar3/SimpleFactory/SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Seminar3/Singleton/Singleton.iml" />

@@ -6,7 +6,7 @@ import ro.ase.cts.zoo.Zoo;
 import ro.ase.cts.zoo.ZooKeeper;
 
 public class Main {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Zoo zoo = new Zoo("Zoo Baneasa", new ZooKeeper("Luisa"));
 
         zoo.addAnimal(new Lion("Leon", 5, FoodType.Meat, 200));
