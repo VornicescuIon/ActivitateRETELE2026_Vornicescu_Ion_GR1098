@@ -4,7 +4,7 @@ import ro.ase.cts.clase.Hotel;
 
 public class Main {
     public static void main(String[] args) {
-        Hotel hotel1 = Hotel.getInstance("Intercont", 7, 3);
+        Hotel hotel1 = Hotel.getInstance("Interconnect", 7, 3);
         Hotel hotel2 = Hotel.getInstance("MegaHotel", 200, 100);
 
         hotel1.rezervaCamere();
