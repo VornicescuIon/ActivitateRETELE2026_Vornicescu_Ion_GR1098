@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/seminar_6/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/seminar_6/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar01/Seminar01.iml" filepath="$PROJECT_DIR$/Seminar01/Seminar01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar02/Seminar02.iml" filepath="$PROJECT_DIR$/Seminar02/Seminar02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1_CTS.iml" filepath="$PROJECT_DIR$/Seminar1_CTS.iml" />
@@ -9,6 +10,9 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Seminar5.iml" filepath="$PROJECT_DIR$/Seminar5/Seminar5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/Seminar3/SimpleFactory/SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Seminar3/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar6_FactoryMethod/seminar6_FactoryMethod.iml" filepath="$PROJECT_DIR$/seminar6_FactoryMethod/seminar6_FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar6_Prototype/seminar6_Prototype.iml" filepath="$PROJECT_DIR$/seminar6_Prototype/seminar6_Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar_6/seminar_6.iml" filepath="$PROJECT_DIR$/seminar_6/seminar_6.iml" />
     </modules>
   </component>
 </project>
